@@ -1,0 +1,10 @@
+{
+    "todos": [
+        {
+            "title":"Prolecno spremanje",
+            "category":"rekreacija",
+            "deadline":"2018-04-20",
+            "description":"Znaci tepisi napolje, znaci pracina, znaci promena rasporeda"
+        }
+    ]
+}
