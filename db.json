@@ -3,9 +3,30 @@
         {   
             "id": 1,
             "title":"Prolecno spremanje",
-            "category":"rekreacija",
-            "deadline":"2018-04-20",
-            "description":"Znaci tepisi napolje, znaci pracina, znaci promena rasporeda"
+            "action":"WORK",
+            "date":"2018-04-20",
+            "desc":"Znaci tepisi napolje, znaci pracina, znaci promena rasporeda"
+        },
+        {   
+            "id": 2,
+            "title":"Popraviti bicikl",
+            "action":"SPORT",
+            "date":"2018-05-20",
+            "desc":"Prednji menjac zaglavio, mora da se utopi"
+        },
+        {   
+            "id": 3,
+            "title":"Nabaviti WD40",
+            "action":"SHOPING",
+            "date":"2018-05-15",
+            "desc":"KOnacno"
+        },
+        {   
+            "id": 4,
+            "title":"Trcati 5 km",
+            "action":"SPORT",
+            "date":"2018-06-30",
+            "desc":"Poceti sa 5 x 5min"
         }
     ]
 }
