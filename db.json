@@ -4,29 +4,177 @@
             "id": 1,
             "title":"Prolecno spremanje",
             "action":"WORK",
-            "date":"2018-04-20",
+            "date":"2018-04-13",
             "desc":"Znaci tepisi napolje, znaci pracina, znaci promena rasporeda"
         },
         {   
             "id": 2,
             "title":"Popraviti bicikl",
             "action":"SPORT",
-            "date":"2018-05-20",
+            "date":"2018-12-22",
             "desc":"Prednji menjac zaglavio, mora da se utopi"
         },
         {   
             "id": 3,
             "title":"Nabaviti WD40",
             "action":"SHOPING",
-            "date":"2018-05-15",
+            "date":"2018-07-15",
             "desc":"KOnacno"
         },
         {   
             "id": 4,
             "title":"Trcati 5 km",
-            "action":"SPORT",
+            "action":"MUSIC",
             "date":"2018-06-30",
             "desc":"Poceti sa 5 x 5min"
+        }
+        ,
+        {   
+            "id": 5,
+            "title":"Uleteti u taksi",
+            "action":"WORK",
+            "date":"2018-08-18",
+            "desc":"I uzviknuti 'pratite onaj auto'"
+        },
+        {   
+            "id": 6,
+            "title":"Hire two private investigators",
+            "action":"WORK",
+            "date":"2018-07-01",
+            "desc":"Hire two private investigators. Get them to follow each other."
+        },
+        {   
+            "id": 7,
+            "title":"Become a teacher.",
+            "action":"MUSIC",
+            "date":"2018-10-03",
+            "desc":"Become a teacher. Make a test where every answer is “C”. Enjoy the show."
+        },
+        {   
+            "id": 8,
+            "title":"Buy a horse.",
+            "action":"WORK",
+            "date":"2018-11-05",
+            "desc":"Buy a horse, name it “Oscar Takes The Lead,” enter it in horse races."
+        },
+        {   
+            "id": 9,
+            "title":"Become a office freak.",
+            "action":"SHOPING",
+            "date":"2018-06-08",
+            "desc":"Invite someone into your office, turn around in office chair and say, “I’ve been expecting you…”"
+        },
+        {   
+            "id": 10,
+            "title":"Buy a parrot.",
+            "action":"SPORT",
+            "date":"2018-05-11",
+            "desc":"Buy a parrot. Teach the parrot to say,”Help! I’ve been turned into a parrot!”"
+        },
+        {   
+            "id": 11,
+            "title":"Eye of the Tiger.",
+            "action":"MUSIC",
+            "date":"2018-08-24",
+            "desc":"Follow joggers around in a car blasting “Eye of the Tiger” for encouragement"
+        },
+        {   
+            "id": 12,
+            "title":"Buy four pigs",
+            "action":"SHOPING",
+            "date":"2018-09-30",
+            "desc":"Buy four pigs. Paint 1, 2, 3, and 5 on each pig. Let them loose in a mall and watch security try to find number 4."
+        },
+        {   
+            "id": 13,
+            "title":"Get blessed",
+            "action":"WORK",
+            "date":"2018-04-23",
+            "desc":"Sneeze in front of the pope. Get blessed"
+        },
+        {   
+            "id": 14,
+            "title":"Walk into Sea World with a fishing pole.",
+            "action":"SHOPING",
+            "date":"2018-05-14",
+            "desc":"Walk into Sea World with a fishing pole."
+        },
+        {   
+            "id": 15,
+            "title":"Drink Responsibly.",
+            "action":"WORK",
+            "date":"2018-11-19",
+            "desc":"Make an alcoholic beverage and name it “responsibly.” Drink Responsibly."
+        },
+        {   
+            "id": 16,
+            "title":"Videtu Staru planinu",
+            "action":"SPORT",
+            "date":"2018-09-11",
+            "desc":"Bar 5 vodopada, popeti bar 10 vrhova"
+        },
+        {   
+            "id": 17,
+            "title":"Videti Suvu planinu",
+            "action":"SHOPING",
+            "date":"2018-12-28",
+            "desc":"Videti Suvu planinu"
+        },
+        {   
+            "id": 18,
+            "title": "Videti rtanj",
+            "action":"MUSIC",
+            "date":"2018-10-21",
+            "desc":"po moguctstvu provesti noc na RTNJU šatoru"
+        },
+        {   
+            "id": 19,
+            "title": "Videti šar planinu",
+            "action":"WORK",
+            "date":"2018-11-22",
+            "desc":"Videti Šar Planinu i pritom biti fini"
+        },
+        {   
+            "id": 20,
+            "title": "Skočiti bundži jump",
+            "action": "SPORT",
+            "date": "2018-08-07",
+            "desc": "Po mogucstvu na ledja, pri tom ostati ziv"
+        },
+        {   
+            "id": 21,
+            "title": "Hiking na Tari",
+            "action":"SHOPING",
+            "date":"2018-06-29",
+            "desc":"Hiking na Tari da bude bar 20 km ukupno"
+        },
+        {   
+            "id": 22,
+            "title": "Videti Krupajsko vrelo",
+            "action": "WORK",
+            "date":"2018-08-23",
+            "desc": "Samo ako nije previše vrelo"
+        },
+        {   
+            "id": 23,
+            "title": "Pročitati bar jednu knjigu do kraja godine",
+            "action":"WORK",
+            "date":"2018-11-14",
+            "desc":" Misleci na normanu knjigu, ne neku programersku"
+        },
+        {   
+            "id": 24,
+            "title": "Facebook",
+            "action":"SHOPING",
+            "date":"2018-05-16",
+            "desc":"Have a conversation on Facebook with a friend. Delete all my comments. Make friend look insane."
+        },
+        {   
+            "id": 25,
+            "title": "Piano",
+            "action":"SPORT",
+            "date":"2018-05-16",
+            "desc":"Stand in a crowded elevator. Say \"What a strange place for a piano.\" Watch as people turn around to look for the piano."
         }
     ]
 }
